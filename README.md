@@ -4,10 +4,13 @@
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Data-Visualization-Pilot/HEAD)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab's Python Data Visualization workshop. We
-recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals) prior to taking this workshop.
+This repository contains the materials for D-Lab's Python Data Visualization workshop. 
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+## Prerequisites
+
+We recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals) prior to taking this workshop.
+
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 
 ## Workshop Goals
